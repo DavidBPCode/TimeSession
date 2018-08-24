@@ -4,7 +4,7 @@
 // @version     1.0
 // @description Controlar el tiempo de sesión para avisar al usuario unos minutos antes
 // @author      DavidBP
-// @match       http://demo.davidbp.com/*
+// @match       https://demo.davidbp.com/*
 // @require     https://code.jquery.com/jquery-3.3.1.min.js
 // @require     https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
 // @require     https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
